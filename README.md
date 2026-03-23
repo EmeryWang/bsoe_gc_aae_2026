@@ -211,7 +211,7 @@ These problem sets will likely require significant time investment. Please make 
 
 - Frijters, Paul (2013). The Limits of Inference Without Theory. *Economic Record* 89, 429-432.
 
-- **Haile, Phil (2022). Models, Measurement, and the Language of Empirical Economics. slides at https://www.dropbox.com/s/8kwtwn30dyac18s/intro.pdf**
+- **Haile, Phil (2022). Models, Measurement, and the Language of Empirical Economics. slides at [DropboxLink](https://www.dropbox.com/scl/fi/1gmqbaiyqjjho7edcydsa/intro.pdf?rlkey=ouyics7njk8firz9fqddpwedl&st=z0lt3ajw&dl=0)**
 
 - Heckman, Jim J. (2010). Building Bridges Between Structural and Program Evaluation Approaches to Evaluating Policy. *Journal of Economic Literature* 48(2), 356-398.
 
