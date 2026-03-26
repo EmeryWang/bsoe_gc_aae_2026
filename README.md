@@ -44,8 +44,6 @@
 - The course uses GitHub Classrooms to manage graded assignment submission. 
 - You can work in teams of up to two people. Please create or join a team in the next step for each assignment.
 - After a team is created, a team repository is created, where you will upload your solutions.
-- You can accept a assignments using the links below:
-    - Test assignment [here](xx).
 
 
 ### Additional tutorial on Graded Assignment 4
