@@ -14,7 +14,7 @@
 - Exam: July 17, 2026
 - Compulsory reading in bold.
 - PhD Evaluation: if this course is taken for credits, the final grade will be determined by
-    - 4 problem sets (to be completed in groups of max. 2 participants), weighted 1/8 each,
+    - 4 problem sets (to be completed in groups of max. 3 participants), weighted 1/8 each,
     - a final exam, weighted 1/2.
 - Master Evaluation (TBC):
     - 3 problem sets out of 4 (to be completed in groups of max. 3 participants) 
