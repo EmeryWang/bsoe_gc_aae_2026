@@ -3,7 +3,7 @@
 
 #### Peter Haan (PH), Maximilian Schaller (MS), Hannes Ullrich (HU), Felix Weinhardt (FW)
 
-### Course organization
+## Course organization
 
 - The course takes place on Fridays (unless noted otherwise), 9:00 - 12:00 at DIW Berlin (Ostrom Hall).
 - All material can be found here: https://github.com/AppliedEconBerlin/bsoe_gc_aae_2026
@@ -20,7 +20,7 @@
     - 3 problem sets out of 4 (to be completed in groups of max. 3 participants) 
     - a final exam (weighting depends on the rules of your program)
 
-### Course objectives
+## Course objectives
 
 - Discuss central methods and current advances in applied econometrics.
 - Provide insights into empirical strategies developed in important papers in the Labour, Public & IO literatures (now applied in many other fields), with a focus on identification.
@@ -28,7 +28,7 @@
 - Establish basic estimation techniques & numerical methods such as simulation and numerical integration.
 
 
-### Exam Information (preliminary):
+## Exam Information (preliminary):
 - Date: **July 17, 9am**; Elinor Ostrom Hall (DIW); duration 2hrs
 - All material covered in the course is relevant for the exam.
 - There will be no questions on Python/Coding. However, the problem sets are relevant for the exam. You have to be able to conceptually discuss all covered models and implementation techniques.
@@ -40,10 +40,49 @@
 - The set of questions is the same for PhDs and Masters students.
 
 
-### Graded Assignment Submission
+## Graded Assignment Submission
 - The course uses GitHub Classrooms to manage graded assignment submission. 
-- You can work in teams of up to two people. Please create or join a team in the next step for each assignment.
+- You can work in teams of up to three people. Please create or join a team when accepting an Assignment (see note below).
 - After a team is created, a team repository is created, where you will upload your solutions.
+- Link to currently active assignment: [none]
+
+### Test Assignment 0 - Student Onboarding
+First, you'll need to set up your GitHub account and accept the first classroom assignment. Here's the process:
+
+#### Step 1: Create or Verify Your GitHub Account
+
+- Go to [github.com](https://github.com) and create a free account if you don't already have one.
+- We will identify your graded submissions based on your GitHub account. Please inform the TA if you switch accounts during the semester.
+- GitHub offers free premium education accounts, including free usage of GitHub Co-pilot. See Readme in Assignment 0.
+
+#### Step 2: Accept the GitHub Classroom Assignment & Form Your Team
+
+Starting with Assignment 0, all assignments are **group assignments**. You will be able to work in teams of up to **3 participants** per assignment.
+
+**How to accept an assignment and join/create a team:**
+
+1. **Click the invitation link** shared by your instructor. This link to active assignments will be shared here.
+2. On the GitHub Classroom page, you'll be prompted to authorize GitHub Classroom access to your GitHub account.
+3. **Next, create or join a team:**
+   - If you're the **first person from your team** to accept the assignment, click **Create a new team** and enter your team name (e.g., "Team A", or a descriptive name).
+   - If you're **joining an existing team**, click **Join a team** and select the team created by one of your teammates.
+   - Each team can have a maximum of **3 members**.
+4. Once you've joined a team, GitHub Classroom automatically creates a **shared team repository** where all team members can collaborate.
+5. You'll see the repository URL at: `https://github.com/AppliedEconBerlin/assignment-0-<team-name>`
+
+#### Step 3: Get Your Tools Ready
+
+- Before working on assignments, we recommend install the following software: VSCode and Git. Suggested workflow is described in Assignment 0.
+- As a fallback option, you can just upload your solutions for any assignment to the respective repository via the GitHub webpage.
+
+
+#### Step 4: Complete Assignment 0 as a Team
+
+- Once your tools are ready, clone the shared assignment_0 repository locally (all team members should clone the same repository)
+- Follow the instructions in the repository's README
+- This introductory assignment walks you through the full GitHub workflow: cloning, editing files, committing, and pushing
+- **Coordinate with your teammates:** See the "Team Collaboration Workflow" section in the Assignment 0 README for best practices on working together in the shared repository
+
 
 
 ### Additional tutorial on Graded Assignment 4
