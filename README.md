@@ -17,7 +17,7 @@
     - 4 problem sets (to be completed in groups of max. 3 participants), weighted 1/8 each,
     - a final exam, weighted 1/2.
 - Master Evaluation (TBC):
-    - 3 problem sets out of 4 (to be completed in groups of max. 3 participants) 
+    - 3 problem sets out of 4 (to be completed in groups of max. 3 participants); passing grade required for admission to exam 
     - a final exam (weighting depends on the rules of your program)
 
 ## Course objectives
