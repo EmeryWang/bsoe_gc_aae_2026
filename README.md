@@ -44,7 +44,7 @@
 - The course uses GitHub Classrooms to manage graded assignment submission. 
 - You can work in teams of up to three people. Please create or join a team when accepting an Assignment (see note below).
 - After a team is created, a team repository is created, where you will upload your solutions.
-- Link to currently active assignment: [none]
+- Link to currently active assignment: [here](https://classroom.github.com/a/cBgOreKn)
 
 ### Test Assignment 0 - Student Onboarding
 First, you'll need to set up your GitHub account and accept the first classroom assignment. Here's the process:
