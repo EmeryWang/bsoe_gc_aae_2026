@@ -40,12 +40,16 @@
 - The set of questions is the same for PhDs and Masters students.
 
 
+---
+---
 ## Graded Assignment Submission
 - The course uses GitHub Classrooms to manage graded assignment submission. 
-- You can work in teams of up to three people. Please create or join a team when accepting an Assignment (see note below).
-- After a team is created, a team repository is created, where you will upload your solutions.
-- Link to graded assignment 1: tba
+- You can work in teams of up to three people. Please create or join a team when accepting an Assignment. The list of teams from the previous assignment will be displayed. You are free to switch teams during the semester, although we ask you to generally stick to the same groups.
+- After a team is joined, a team repository is created, where you will upload your solutions.
+- Link to graded assignment 1: [here](https://classroom.github.com/a/_L3lk22y) (Deadline: May 8th, 2026; 00:00am)
 
+
+---
 ### Test Assignment 0 - Student Onboarding
 First, you'll need to set up your GitHub account and accept the first classroom assignment. Here's the process:
 
@@ -90,6 +94,8 @@ Starting with Assignment 0, all assignments are **group assignments**. You will 
 - The session will be held online. The link to the meeting will be distributed to course participants by e-mail.
 
 
+---
+---
 ## Lectures
 
 
